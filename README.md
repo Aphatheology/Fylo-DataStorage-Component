@@ -1,4 +1,5 @@
 # Frontend Mentor - Fylo data storage component
+## Hosted Link: https://aphatheology.github.io/Fylo-DataStorage-Component/
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
